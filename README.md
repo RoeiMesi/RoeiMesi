@@ -2,7 +2,7 @@
 
 🌟 **Aspiring Software Developer** | 💻 **Third-Year Computer Science Student**
 
-Welcome to my GitHub! I'm Roei Mesilaty, a highly motivated third-year Computer Science student at Bar-Ilan University, with a GPA of 85+. I thrive on tackling challenging problems with creativity and dedication.
+Welcome to my GitHub! I'm Roei Mesilaty, a highly motivated third-year Computer Science student at Bar-Ilan University, with a GPA of 86+. I thrive on tackling challenging problems with creativity and dedication.
 
 ---
 
